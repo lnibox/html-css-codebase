@@ -1,0 +1,22 @@
+{
+  "name": "html-css-codebase",
+  "version": "1.0.0",
+  "description": "HTML CSS Codebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Y Le",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.16.0"
+  }
+}
